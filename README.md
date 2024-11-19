@@ -1,3 +1,10 @@
+# Project Link
+
+
+###  [https://analyzexai.netlify.app/](https://analyzexai.netlify.app/)
+
+
+
 # AnalyzeX.ai
 
 
