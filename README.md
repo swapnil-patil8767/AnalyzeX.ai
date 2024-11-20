@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/06a39c9d-3af0-40b1-a706-5d07f16bdec9
 
 ## Features  
 
-### 1. AI-Powered Sales Report Generation  
+### 1. AI-Powered Sales Report Generation  [Link](https://github.com/swapnil-patil8767/Report-Generation)
 - **Upload:** Users can upload sales reports in `.csv` or `.xlsx` format.  
 - **Output:** Automatically generate detailed sales insights such as:  
   - Total sales  
@@ -31,14 +31,14 @@ https://github.com/user-attachments/assets/06a39c9d-3af0-40b1-a706-5d07f16bdec9
   - Key performance indicators (KPIs)  
 - **Benefits:** Save time by letting AI analyze and summarize your sales data with precision.  
 
-### 2. Data Visualization with Simple Prompts  
+### 2. Data Visualization with Simple Prompts  [Link](https://github.com/swapnil-patil8767/Chat_-_Plot)
 - **Input:** Provide any dataset (in `.csv` or `.xlsx` format).  
 - **Functionality:**  
   - Ask questions about your data, and the AI provides insights.  
   - Generate charts (histograms, pie charts, bar charts, etc.) with just a few lines of prompts.  
 - **Output:** Quickly visualize trends, comparisons, and distributions for easier understanding.  
 
-### 3. Drag-and-Drop Analysis for Non-Technical Users  
+### 3. Drag-and-Drop Analysis for Non-Technical Users  [Link](https://github.com/swapnil-patil8767/Chat_-_Plot_Simple)
 - **For Whom:**  
   - Small enterprises  
   - Small business owners  
